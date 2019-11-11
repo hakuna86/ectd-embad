@@ -1,2 +1,2 @@
-# ectd-embad
+# ectd-embed
 ectd-embad testing
